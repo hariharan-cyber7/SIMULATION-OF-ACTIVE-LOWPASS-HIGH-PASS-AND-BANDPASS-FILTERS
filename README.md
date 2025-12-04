@@ -49,5 +49,8 @@ LT-Spice
 
 ## RESULT :
 
-<img width="812" height="434" alt="image" src="https://github.com/user-attachments/assets/a5896e04-d7b8-47da-a9e6-c81119085c5b" />
+Thus, the LTSpice tool has been studied and active low pass filter,high pass filter and bandpass filter is simulated.
+
+
+
 
